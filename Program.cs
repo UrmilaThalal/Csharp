@@ -8,7 +8,8 @@ namespace MyApplication
     {
       int myNum;
       myNum = 15;
-      Console.WriteLine(myNum);
+            Console.WriteLine(myNum);
+            Console.WriteLine(" new feature added!");
      }
   }
 }
